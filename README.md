@@ -3,7 +3,7 @@
 ### 🏐 Gosto muito de esportes
 ### 🎵 e de ouvir musicas.
 ### ✈️ Sonho em conhecer o mundo
-### 💻 e ser uma grande desenvolvedora
+### 💻 e ser uma grande desenvolvedora!!
 
 
 <div align="center">
