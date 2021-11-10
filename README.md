@@ -1,7 +1,9 @@
 ### Olá! Eu sou a Mariana Diniz 👋
 
-### 🏐 Gosto muito de esportes 
-### 
+### 🏐 Gosto muito de esportes
+### 🎵 e de ouvir musicas.
+### ✈️ Sonho em conhecer o mundo
+### 💻 e ser uma grande desenvolvedora
 
 
 <div align="center">
