@@ -7,7 +7,7 @@
 </div>
   
 ### Atualmente estudo as seguintes tecnologias: 
-  <div align="center" style="display: inline_block" style="margin-top: -10px"><br>
+  <div align="center" style="display: inline_block"><br>
     <img align="center" alt="icon-Java" height="100" width="100" src="https://cdn.worldvectorlogo.com/logos/java.svg">
     <img align="center" alt="icon-Kotlin" height="100" width="120" src="https://logowik.com/content/uploads/images/kotlin.jpg">
     <img align="center" alt="icon-Aws" height="100" width="150" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
