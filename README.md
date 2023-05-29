@@ -1,4 +1,4 @@
-### Olá! Eu sou a Mariana Diniz 👋
+### Olá! Sou Mariana, entusiasta em tecnologia 💻 e apaixonada por esportes 🏐
 
 ### 🏐 Gosto muito de esportes
 ### 🎵 e de ouvir musicas.
