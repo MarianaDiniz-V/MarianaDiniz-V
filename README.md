@@ -7,10 +7,11 @@
 </div>
   
 ### Atualmente estudo as seguintes tecnologias: 
-  
-  <img align="center" alt="icon-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
-  <img align="center" alt="icon-Kotlin" height="30" width="40" src="https://logowik.com/content/uploads/images/kotlin.jpg">
-  <img align="center" alt="icon-Aws" height="40" width="40" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
+  <div style="display: inline_block"><br>
+    <img align="center" alt="icon-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+    <img align="center" alt="icon-Kotlin" height="30" width="40" src="https://logowik.com/content/uploads/images/kotlin.jpg">
+    <img align="center" alt="icon-Aws" height="40" width="40" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
+  </div>
 </div>
   
  ### 😊 Você pode me encontrar nas seguintes redes:
