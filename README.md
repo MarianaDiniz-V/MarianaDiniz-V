@@ -1,4 +1,4 @@
-#### Apaixonada por tecnologia, esportes e pelo mundo 🌎
+### Apaixonada por tecnologia, esportes e pelo mundo 🌎
 
 <div align="center">
   <a href="https://github.com/MarianaDiniz-V">
@@ -8,13 +8,9 @@
   
 ### Atualmente estudo as seguintes tecnologias: 
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icon-Python" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png">
+  <img align="center" alt="icon-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+  <img align="center" alt="icon-Kotlin" height="30" width="40" src="https://logowik.com/content/uploads/images/kotlin.jpg">
+  <img align="center" alt="icon-Aws" height="40" width="40" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
 </div>
   
  ### 😊 Você pode me encontrar nas seguintes redes:
