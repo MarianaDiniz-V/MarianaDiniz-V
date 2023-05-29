@@ -1,11 +1,4 @@
-## Apaixonada por tecnologia, esportes e pelo mundo 🌎
-## apaixonada por esportes 🏐
-
-### 🏐 Gosto muito de esportes
-### 🎵 e de ouvir musicas.
-### ✈️ Sonho em conhecer o mundo
-### 💻 e ser uma grande desenvolvedora!!
-
+#### Apaixonada por tecnologia, esportes e pelo mundo 🌎
 
 <div align="center">
   <a href="https://github.com/MarianaDiniz-V">
