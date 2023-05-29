@@ -1,4 +1,5 @@
-### Olá! Sou Mariana, entusiasta em tecnologia 💻 e apaixonada por esportes 🏐
+## Apaixonada por tecnologia, esportes e pelo mundo 🌎
+## apaixonada por esportes 🏐
 
 ### 🏐 Gosto muito de esportes
 ### 🎵 e de ouvir musicas.
